@@ -1,4 +1,4 @@
-## **4️⃣ Product & Quality Classification** (`product-quality-classification`)  
+## **Product & Quality Classification** (`product-quality-classification`)  
 
 ### **Overview**  
 This repository contains **classification models for product quality assessment**, including **wine quality prediction, mushroom edibility classification, and food vision deep learning models**.  
